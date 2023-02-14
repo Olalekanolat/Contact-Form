@@ -36,9 +36,9 @@ form select {
 
 button {
     width: 60%;
+    height: 50px;
     color: white;
     background-color: rgb(51, 51, 165);
-    padding: 15px;
     margin-top: 15px;
     margin-left: 40%;
     border: 0;
